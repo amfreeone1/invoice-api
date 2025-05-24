@@ -1,14 +1,14 @@
 # Invoice API
 
-Sadə Node.js REST API fakturaların (invoice) idarə edilməsi üçün (CRUD əməliyyatları).
+Simple Node.js REST API for invoice management (CRUD operations). 
 
-## Texnologiyalar
+## Technologies 
 - Node.js
 - Express.js
 - body-parser
 - cors
 
-## Necə işə salınır
+## How to activate 
 
 ```bash
 npm install
